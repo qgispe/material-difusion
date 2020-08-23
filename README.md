@@ -1,2 +1,2 @@
 # material-difusion
-Material de difusión del Grupo de Usuarios QGIS Perú
+Material de difusión de la **Comunidad de QGIS Perú**
